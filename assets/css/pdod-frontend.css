@@ -1,0 +1,13 @@
+span.pdod-strike-price {
+	display: inline-block;
+	text-decoration: line-through;
+	margin-right: 10px;
+}
+div.pdod-timer {
+	background: transparent;
+	border: transparent;
+	margin: 10px 0px;
+	display: block;
+	clear: both;
+	overflow: hidden;
+}

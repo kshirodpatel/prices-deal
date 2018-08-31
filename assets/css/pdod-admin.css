@@ -1,0 +1,6 @@
+table.wp-list-table th#subscriptions.column-subscriptions {
+	width: 13% !important;
+}
+table.subscribe-list thead th.slno {
+	width: 20% !important;
+}
